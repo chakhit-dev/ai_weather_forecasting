@@ -8,6 +8,12 @@ It's a project that uses weather data to train AI.
 pip install requests pandas joblib scikit-learn tqdm fastapi uvicorn
 ```
 
+## Environment Variables
+
+You should add your [OpenWeather](https://openweathermap.org) API key to your project files. You can find it there.
+
+`API_KEY = ""`
+
 ## Usage
 
 File `train_model_with_version` takes the provided data and trains the model, producing a `pkl` file, which is essentially the AI's brain.
