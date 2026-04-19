@@ -5,7 +5,7 @@ It's a project that uses weather data to train AI.
 ## Installation
 
 ```bash
-  pip install requests pandas joblib scikit-learn tqdm fastapi uvicorn
+pip install requests pandas joblib scikit-learn tqdm fastapi uvicorn
 ```
 
 ## Usage
